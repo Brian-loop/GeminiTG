@@ -7,7 +7,6 @@ The tg-gemini-bot let's you use Google Gemini services right on your personal Te
 
 Super easy, just a single click and you've got it set up on Vercel.
 
-![screen](./screenshots/screen.png)
 
 🚀 If you don't want to deploy it yourself, you can use this deployment-free telegram bot: This bot is a fork from this project, providing completely identical features.
 
@@ -47,11 +46,7 @@ Get these things ready, and then fill them in as environment variables in Vercel
 
    Or you could just click on `https://api.telegram.org/bot<bot-token>/setWebhook?url=<vercel-domain> ` to connect your Telegram bot to Vercel services. (remember to replace `<token>` and `<vercel-domain>` with your actual corresponding parameters)
 
-![update_telegram_bot](./screenshots/visit_domains.png)
 
-4. Fill in your telegram bot token on the page to associate telegram bot and vercel.
-
-![update_telegram_bot](./screenshots/update_telegram_bot.png)
 
 ## Environment Variable
 
@@ -101,6 +96,5 @@ So, if you've done everything step by step just like we talked about and your Te
 
 2. If no errors have occurred here, open the **Logs** tab, click on an erroneous log, and the program's output will be displayed on the right.
 
-![screen](./screenshots/vercel_logs.png)
 
 3. If there are any error messages, you can open an issue, and then provide the error information.
